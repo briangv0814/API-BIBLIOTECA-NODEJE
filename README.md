@@ -101,9 +101,18 @@ npm run dev
 ```
 
 ---
+## Processo de Aprendizado
+
+Este projeto foi desenvolvido durante meus estudos de Node.js e Express.
+
+Repositório de estudos:
+https://github.com/briangv0814/Estudos-JS
 
 ## 👨‍💻 Autor
 
-Brian Giaccon Vilela
+briangv0814
 
-Estudante de Ciência da Computação.
+## Contato
+
+LinkedIn: http://www.linkedin.com/in/brian-vilela-983974398
+Email: briangvcontato@gmail.com
