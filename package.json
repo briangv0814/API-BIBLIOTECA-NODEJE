@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Brian Giaccon Vilela",
+  "author": "briangv0814",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
